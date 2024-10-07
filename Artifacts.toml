@@ -1,9 +1,9 @@
 [[FFMPEG]]
 arch = "x86_64"
-git-tree-sha1 = "22a8267d41fd1304d839213dc41b7698edb508f5"
+git-tree-sha1 = "fdb14f7b1bf6766687af4e3951c4d982cee66086"
 libc = "glibc"
 os = "linux"
 
     [[FFMPEG.download]]
-    sha256 = "ff822e3e69bb1e6cb2d09304c1f9392a719745045fcca9978e297ca4eb060559"
-    url = "https://github.com/drewrobson/FFMPEG_jll.jl/releases/download/FFMPEG-v4.4.4+2/FFMPEG.v4.4.4.x86_64-linux-gnu.tar.gz"
+    sha256 = "01a68f59763326af873945fdad4f64238eb7af24de59e11da3808d31b839bb70"
+    url = "https://github.com/drewrobson/FFMPEG_jll.jl/releases/download/FFMPEG-v6.1.2+1/FFMPEG.v6.1.2.x86_64-linux-gnu.tar.gz"
