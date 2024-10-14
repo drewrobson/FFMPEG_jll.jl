@@ -1,0 +1,9 @@
+[[FFMPEG]]
+arch = "x86_64"
+git-tree-sha1 = "ad463159d88c2e8dc7934c5045f94617b35c7c47"
+libc = "glibc"
+os = "linux"
+
+    [[FFMPEG.download]]
+    sha256 = "adfbf1c65f42be0c6cee3d7c317628e5974b90b3a55ee33618d60f0932183276"
+    url = "https://github.com/drewrobson/FFMPEG_jll.jl/releases/download/FFMPEG-v4.4.4+2/FFMPEG.v4.4.4.x86_64-linux-gnu.tar.gz"
